@@ -1,0 +1,29 @@
+body {
+    background-image: url(/Users/alsmith/train-schedule/tamriel-by-rowenn-lg.jpg)
+  }
+  
+  #heading {
+    font-family: Times;
+    font-weight: bold;
+    color: black;
+  }
+  
+  #subHeading {
+    font-family: Times;
+    font-style: italic;
+    color: black;
+  }
+  
+  .panel-title {
+    font-weight: bold;
+  }
+  
+  th {
+    font-weight: bold;
+  }
+  .jumbotron{
+      background-color: antiquewhite;
+      margin-top: 50px;
+      opacity: .9;
+      /* background: linear-gradient(antiquewhite, white); */
+  }
